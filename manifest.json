@@ -1,0 +1,14 @@
+{
+  "name": "Casa Domotica",
+  "short_name": "Domotica",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFlM2E4YSI+PGFsbGlwc2Ugcnk9IjEyIiBjeD0iMTIiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJtOC03IDE2IDc4MTYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=",
+      "sizes": "24x24",
+      "type": "image/svg+xml"
+    }
+  ]
+}
